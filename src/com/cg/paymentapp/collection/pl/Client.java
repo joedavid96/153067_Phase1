@@ -122,14 +122,14 @@ public class Client
 		catch(InvalidInputException e)
 		{
 			
-			e.printStackTrace();
+			//e.printStackTrace();
 			System.out.println("Something went WRONG : Reason : " + e.getMessage() + "\n");
 			
 		}
 		catch(Exception e)
 		{
 			
-			e.printStackTrace();
+			//e.printStackTrace();
 			System.out.println("Something went WRONG: Please Try Again After Some Time. Thanks.\n");
 			
 		}
@@ -149,14 +149,14 @@ public class Client
 		catch(InvalidInputException e)
 		{
 			
-			e.printStackTrace();
+			//e.printStackTrace();
 			System.out.println("Something went WRONG : Reason : " + e.getMessage() + "\n");
 			
 		}
 		catch(Exception e)
 		{
 			
-			e.printStackTrace();
+			//e.printStackTrace();
 			System.out.println("Something went WRONG: Please Try Again After Some Time. Thanks.\n");
 			
 		}
@@ -185,14 +185,14 @@ public class Client
 		catch(InvalidInputException e)
 		{
 			
-			e.printStackTrace();
+			//e.printStackTrace();
 			System.out.println("Something went WRONG : Reason : " + e.getMessage() + "\n");
 			
 		}
 		catch(Exception e)
 		{
 			
-			e.printStackTrace();
+			//e.printStackTrace();
 			System.out.println("Something went WRONG: Please Try Again After Some Time. Thanks.\n");
 			
 		}
@@ -227,21 +227,21 @@ public class Client
 		catch(InvalidInputException e)
 		{
 			
-			e.printStackTrace();
+			//e.printStackTrace();
 			System.out.println("Something went WRONG : Reason : " + e.getMessage() + "\n");
 			
 		}
 		catch(InsufficientBalanceException e)
 		{
 			
-			e.printStackTrace();
+			//e.printStackTrace();
 			System.out.println("Something went WRONG : Reason : " + e.getMessage() + "\n");
 			
 		}
 		catch(Exception e)
 		{
 			
-			e.printStackTrace();
+			//e.printStackTrace();
 			System.out.println("Something went WRONG: Please Try Again After Some Time. Thanks.\n");
 			
 		}
@@ -281,21 +281,21 @@ public class Client
 		catch(InvalidInputException e)
 		{
 			
-			e.printStackTrace();
+			//e.printStackTrace();
 			System.out.println("Something went WRONG : Reason : " + e.getMessage() + "\n");
 			
 		}
 		catch(InsufficientBalanceException e)
 		{
 			
-			e.printStackTrace();
+			//e.printStackTrace();
 			System.out.println("Something went WRONG : Reason : " + e.getMessage() + "\n");
 			
 		}
 		catch(Exception e)
 		{
 			
-			e.printStackTrace();
+			//e.printStackTrace();
 			System.out.println("Something went WRONG: Please Try Again After Some Time. Thanks.\n");
 			
 		}
@@ -331,14 +331,14 @@ public class Client
 		catch(InvalidInputException e)
 		{
 			
-			e.printStackTrace();
+			//e.printStackTrace();
 			System.out.println("Something went WRONG : Reason : " + e.getMessage() + "\n");
 			
 		}
 		catch(Exception e)
 		{
 			
-			e.printStackTrace();
+			//e.printStackTrace();
 			System.out.println("Something went WRONG: Please Try Again After Some Time. Thanks.\n");
 			
 		}
